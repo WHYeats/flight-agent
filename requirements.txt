@@ -1,0 +1,6 @@
+anthropic
+google-genai
+fastmcp
+python-dotenv
+httpx
+google-search-results

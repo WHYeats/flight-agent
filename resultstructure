@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "airline": ["United Airlines", "Delta"]
+        "price": "$380",
+        "total_duration": "10h 45m",
+        "stops": 1,
+        "notice": ["best choice", "least price"]
+        "itinerary": [
+            {"type": "flight", "from": "LAX", "to": "SFO", "time": "06:00 AM - 07:30 AM", "duration": "1h 30m", "flight_number": "UA456"},
+            {"type": "layover", "location": "SFO", "duration": "1h 15m", "warning": "Tight connection"},
+            {"type": "flight", "from": "SFO", "to": "JFK", "time": "08:45 AM - 04:45 PM", "duration": "8h 00m", "flight_number": "UA789"}
+        ],
+        "booking_token": "..." 
+    }
+]

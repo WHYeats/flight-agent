@@ -1,0 +1,29 @@
+# Environment
+.env
+
+# Tests
+tests/
+
+# Debug output
+debug/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Data (large files)
+data/airports.csv
+data/airports_iata.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Claude Code
+.claude/
